@@ -10,18 +10,8 @@ Aplikasi desktop pencatatan dan pengelolaan produk toko sederhana berbasis **Jav
   - Filter berdasarkan kategori produk.
   - Hapus produk dengan konfirmasi dialog.
 
-## Prasyarat
-- Java Development Kit (JDK) 17 atau yang lebih baru (teruji di JDK 21+).
-- Apache Maven (atau IDE seperti Apache NetBeans / IntelliJ IDEA / VS Code).
 
-## Cara Menjalankan
-
-### Melalui Terminal / Command Prompt
-```bash
-mvn javafx:run
-```
-
-### Melalui Apache NetBeans
+## Cara Menjalankan Melalui Apache NetBeans
 1. Buka folder proyek ini di Apache NetBeans.
 2. Klik kanan pada proyek **ProdukTokoApp** > **Run** (atau tekan **F6**).
 
